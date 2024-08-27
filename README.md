@@ -3,7 +3,7 @@
 
 Elastic&Streamlit - WooriCard
 
-## 팀원소개
+## [ 팀원소개 ]
 <p> 팀명 : 우리우리 </p>
 
 |    소속    |   이름  |

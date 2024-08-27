@@ -1,5 +1,5 @@
 ![image](https://github.com/user-attachments/assets/d338c073-2f90-401b-9d89-5cb8648d9e7d)
-영상은 " 카드추천.mp4 "를 통해 확인 가능합니다. 
+영상은 " 카드추천.mp4 "를 통해 서비스 시연 영상 확인이 가능합니다. 
 
 Elastic&Streamlit - WooriCard
 

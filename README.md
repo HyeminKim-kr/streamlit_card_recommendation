@@ -1,5 +1,4 @@
-img src="![image](https://github.com/user-attachments/assets/d338c073-2f90-401b-9d89-5cb8648d9e7d)"
-
+![image](https://github.com/user-attachments/assets/d338c073-2f90-401b-9d89-5cb8648d9e7d)
 Elastic&Streamlit - WooriCard
 
 [ 기능 ]
